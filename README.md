@@ -32,7 +32,7 @@ The system:
 
 ## Architecture Diagram
 
-![Architecture](architecture-diagram.png)
+![Architecture](Screenshots/architecture-diagram.png)
 
 ## Tech Stack
 
